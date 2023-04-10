@@ -1,6 +1,4 @@
 # AXLER8R
-* Infinately inquisitive
-* Largely lassiz faire
 
 
 ## Claim to fame
@@ -9,12 +7,10 @@
 
 ## Piques my interest
 * Elixir & Erlang
-* Reason & OCaml
 * Rust, Nim & Crystal
 * Kotlin & Scala
 * Python
-* C#
-* Julia & Juno
+* Machine Learning with Python and Elixir
 
 
 ## Preferred platforms
@@ -27,14 +23,15 @@
 
 ## Secrets
 * Loved working on DEC PDP-11/23 and later DEC PDP-11/83
-* Seccretly admires EJB ORB tecnology
+* Seccretly admires EJB ORM
 
 
 ## Favourite shells
 * ZSH
-* Bash
-* Fish
 * PowerShell
+* xonsh
+* Fish
+* Bash
 
 
 ## Pet hates
@@ -50,15 +47,9 @@
 
 
 ## Editor
-* If it does not support VI mode, I don't use it
+* Vi, Vim, NeoVim, Spacemacs
+* VSCode, Jetbrains Editors as long ast it comes with Vi key bindings
 
 
 ## Day job
 * Cloud Solution Architect at Microsoft
-
-
-## Life
-* Husband
-* Father
-* Friend
-* Colleague
