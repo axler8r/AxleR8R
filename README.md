@@ -7,8 +7,8 @@
 
 ## Piques my interest
 * Elixir & Erlang
-* Rust, Nim & Crystal
-* Kotlin & Scala
+* Rust & Nim
+* Java, Kotlin & Scala
 * Python
 * Machine Learning with Python and Elixir
 
@@ -41,6 +41,8 @@
 
 
 ## Perferred programming projects
+* Machine Learning
+* ChatGPT integration
 * Daemons
 * Services
 * Small command line utilities
@@ -52,4 +54,4 @@
 
 
 ## Day job
-* Cloud Solution Architect at Microsoft
+* Data Scientist at Microsoft
