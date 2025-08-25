@@ -5,20 +5,13 @@
 * Wrote Apache XML encryption library
 
 
-## Piques my interest
-* Elixir & Erlang
-* Rust & Nim
-* Java, Kotlin & Scala
-* Python
+## Favorite languages
+* Elixir, Rust, Scala, Python & C#
 * Machine Learning with Python and Elixir
 
 
 ## Preferred platforms
-* Linux
-* FreeBSD
-* Solaris
-* MacOS
-* Windows
+* Linux, FreeBSD, Solaris, MacOS & Windows
 
 
 ## Secrets
@@ -27,30 +20,19 @@
 
 
 ## Favourite shells
-* ZSH
-* PowerShell
-* xonsh
-* Fish
-* Bash
+* ZSH, PowerShell, xonsh & Bash
 
 
 ## Pet hates
-* Visual Basic
-* Perl
-* POSIX Shell Script
+* Visual Basic, Perl, POSIX Shell Script
 
 
 ## Perferred programming projects
-* Machine Learning
-* ChatGPT integration
-* Daemons
-* Services
-* Small command line utilities
+* Machine Learning, ChatGPT integration, Daemons, Services & small command line utilities
 
 
 ## Editor
-* Vi, Vim, NeoVim, Spacemacs
-* VSCode, Jetbrains Editors as long ast it comes with Vi key bindings
+* Vi, Vim, NeoVim, VSCode or Jetbrains Editors as long ast it comes with Vi key bindings
 
 
 ## Day job
